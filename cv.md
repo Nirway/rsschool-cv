@@ -2,7 +2,7 @@
 Vladimir Kuzmin
 
 ### Contact Information
-- Email: licktheclickn1@gmail.com
+- Email: [email](mailto:licktheclickn1@gmail.com)
 - GitHub: [github.com/Nirway](https://github.com/Nirway)
 - Discord rsschool server nickname: Beluga (@Nirway)
 
